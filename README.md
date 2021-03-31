@@ -13,7 +13,7 @@
 
 # Consolidando Conhecimento Sobre
 <ul>Orientação a Objeto</ul>
-<ul>Herança, Instanciamento, Encapsulamento,etc...,/ul>
+<ul>Herança, Instanciamento, Encapsulamento,etc...,</ul>
 <ul>Selecionar elementos com <em><strong>querySelector & querySelectorAll</strong></em></ul>
 <ul>Ouvir eventos com <em><strong>addEventListener</strong></em></ul>
 <ul>Arrow Functions</ul>
